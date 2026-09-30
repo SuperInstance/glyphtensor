@@ -1,0 +1,9 @@
+{
+  "name": "@superinstance/glyphtensor",
+  "version": "0.1.0",
+  "description": "32-bit spatial glyph tensor: packed [x8|y8|z6][char7][style3] tokens, true-Morton + spec-concat layouts, WGSL projection reference",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": { "test": "node --test test/" },
+  "license": "MIT"
+}
